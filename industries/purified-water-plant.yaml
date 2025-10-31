@@ -7,7 +7,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
-- - - 0
+- - - 1
 name: Purified Water Plant
 placement: anywhere
 probabilityInGame: 5
@@ -18,7 +18,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/purified-water-plant/1.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
