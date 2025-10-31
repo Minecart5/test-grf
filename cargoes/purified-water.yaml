@@ -1,0 +1,17 @@
+abbreviation: PW
+available: true
+classes: 64
+colour: 142
+id: 0
+label: PWTR
+longName: purified water
+name: Purified Water
+penaltyLength: 129
+penaltyLowerBound: 126
+price: 4112
+sprite:
+  filename: cargoes/purified-water.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

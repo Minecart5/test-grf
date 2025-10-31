@@ -1,0 +1,41 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- PWTR
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+name: Purified Water Plant
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/purified-water-plant/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/purified-water-plant/3.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/purified-water-plant/2.png
+      left: -31
+      top: 0
+type: primary
