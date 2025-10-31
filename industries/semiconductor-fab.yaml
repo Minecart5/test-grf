@@ -7,7 +7,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 1
 layout:
-- - - 0
+- - - 1
 name: Semiconductor Fab
 placement: in-large-town
 probabilityInGame: 5
@@ -18,11 +18,24 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/semiconductor-fab/1.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
       filename: industries/semiconductor-fab/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/semiconductor-fab/2.png
       left: -31
       top: 0
 type: secondary
