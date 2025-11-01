@@ -7,7 +7,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 1
 layout:
-- - - 1
+- - - 0
 name: Semiconductor Fab
 placement: in-large-town
 probabilityInGame: 5
